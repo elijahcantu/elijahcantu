@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center">Welcome, I am Elijah Cantu</h1>
+<h1 align="center">What it do, I am Elijah Cantu</h1>
 <h3 align="center">A motivated student searching for ways to be more productive on devices</h3>
 
 <p align="left"> <img
