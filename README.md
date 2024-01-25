@@ -1,16 +1,21 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h1 align="center">Welcome, I am Elijah Cantu</h1>
+<h3 align="center">A motivated student searching for ways to be more productive on devices</h3>
 
-<!--
-**elijahcantu/elijahcantu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img
+    src="https://komarev.com/ghpvc/?username=elijahcantu&label=Profile%20views&color=0e75b6&style=flat"
+    alt="elijahcantu" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I am currently working on a website (it is a secret, but feel free to check out <a href="https://elijahcantu.com"
+  target="_blank">my main website</a> for now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently learning **REACT and AWS**
+
+- 📫 How to reach me **caelijah@umich.edu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/elijahcantu" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:40px" />
+    </a>
+</p>
