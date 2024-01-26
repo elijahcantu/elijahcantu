@@ -9,7 +9,7 @@
 - 🔭 I am currently working on a website (it is a secret, but feel free to check out <a href="https://elijahcantu.com"
   target="_blank">my main website</a> for now)
 
-- 🌱 I am currently learning **REACT and AWS**
+- 🌱 I am currently learning **REACT, FLASK, and AWS**
 
 - 📫 How to reach me **caelijah@umich.edu**
 
