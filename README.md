@@ -6,7 +6,7 @@
     src="https://komarev.com/ghpvc/?username=elijahcantu&label=Profile%20views&color=0e75b6&style=flat"
     alt="elijahcantu" /> </p>
 
-- 🔭 I am currently working on a website (it is a secret, but feel free to check out <a href="https://elijahcantu.com"
+- 🔭 I am currently working on DeviceLorean.com (it is in development, but feel free to check out <a href="https://elijahcantu.com"
   target="_blank">my main website</a> for now)
 
 - 🌱 I am currently learning **REACT, FLASK, and AWS**
