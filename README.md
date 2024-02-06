@@ -1,19 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<h1 align="center">I am Elijah Cantu</h1>
-<h3 align="center">A motivated student developing methods to be more productive on devices</h3>
+<h1 align="center">Elijah Cantu</h1>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=elijahcantu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="elijahcantu" /> </p>
-
-- 🔭 I am currently working on DeviceLorean.com, but feel free to check out <a href="https://elijahcantu.com" target="_blank">elijahcantu.com</a> for now
-
-- 🌱 I am currently learning **REACT, FLASK, and AWS**
-
-- 📫 How to reach me **caelijah@umich.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h5 align="center">
+Elijah Cantu is a junior at the University of Michigan College of Engineering, where he holds a full-ride scholarship. He is currently pursuing a Bachelor of Science in Engineering in Computer Science and a minor in User Experience Design through the School of Information. His interests span diverse areas, including full-stack and game development.</h4>
+<h6 align="center">Connect with Elijah:</h5>
+<p align="center">
   <a href="https://linkedin.com/in/elijahcantu" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height:40px" />
     </a>
