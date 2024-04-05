@@ -5,11 +5,11 @@
     <h3>Elijah's Skills:</h3>
     <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,cs,cpp,c,sqlite,aws,cloudflare,nodejs,react,flask,django,webpack,nginx" alt="Elijah's Skills">
     <h3>Elijah's Websites:</h3>
-    <a href="https://elijahcantu.com">
+    <a href="https://elijahcantu.com" target="_blank">
         <img src="https://elijahcantu.com/assets/images/elijahcantu.jpg" alt="Elijah's Personal Website" style="height:50px;">
     </a>
     <h3>Elijah's Social Media Accounts:</h3>
-    <a href="https://www.linkedin.com/in/elijahcantu">
+    <a href="https://www.linkedin.com/in/elijahcantu" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="Elijah's linkedin">
     </a>
     
