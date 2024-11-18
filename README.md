@@ -1,4 +1,3 @@
-<a href="https://restrictdevices.com" target="_blank">
-  <img src="banner.jpeg" alt="Olpererhütte view">
-</a>
-Schlegeis Stausee, Zillertal Alps, Tyrol, Austria
+<img src="banner.jpeg" alt="Olpererhütte view">
+
+![Map Icon](map.svg) Schlegeis Stausee, Zillertal Alps, Tyrol, Austria
